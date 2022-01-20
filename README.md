@@ -2,7 +2,7 @@
 - 👀 I’m interested in biotechnology.
 - 🌱 I’m currently learning bioinformations.
 - 💞️ I’m looking to collaborate on biology
-- 📫 How to reach me xiaoyuxiaofen@petalmail.com
+- 📫 Everyone can connect with me by xiaoyuxiaofen@petalmail.com
 
 <!---
 xiaoyuxiaofen/xiaoyuxiaofen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
